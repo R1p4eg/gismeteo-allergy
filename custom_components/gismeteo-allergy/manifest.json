@@ -1,0 +1,10 @@
+{
+  "domain": "gismeteo_allergy",
+  "name": "Gismeteo Allergy",
+  "documentation": "https://github.com/R1p4eg/gismeteo-allergy",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@Mr_R1p"
+  ]
+}
